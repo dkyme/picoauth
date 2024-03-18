@@ -4,7 +4,7 @@
     "description": "PicoAuth provides authentication and authorization for flat file CMS Pico.",
     "keywords": ["authentication","authorization","flat-file","Pico","oauth2","sso","plugin","users","picocms"],
     "license": "MIT",
-    "minimum-stability": "beta",
+    "minimum-stability": "alpha",
     "authors": [
         {
             "name": "Pavel Tuma",
